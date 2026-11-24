@@ -1,0 +1,1 @@
+{"description":"Ship It Friday — gc22 entry: a Friday commit message before breaking prod.","main":"main.ts","name":"u-mgwals-ship-it-friday-30bd407a-gc22","private":true,"scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
